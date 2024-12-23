@@ -1,0 +1,6 @@
+@BURAYDAH_CENTRAL_HostAddress = http://localhost:5006
+
+GET {{BURAYDAH_CENTRAL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
